@@ -3,7 +3,7 @@ Created by Fanghang Ji
 Instructor: James O'Brien
 
 # USAGE
-1. ‘cd’ into your assignment directory, type into the Terminal the following step by step
+1. ‘cd’ into your directory, type into the Terminal the following step by step
 2. mkdir build
 3. cd build
 4. cmake ..
