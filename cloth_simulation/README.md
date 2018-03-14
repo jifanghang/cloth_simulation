@@ -1,5 +1,6 @@
 # Cloth Simulation
 Created by Fanghang Ji
+
 Instructor: James O'Brien
 
 # USAGE
